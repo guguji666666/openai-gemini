@@ -135,8 +135,7 @@ Implemented via [`inlineData`](https://ai.google.dev/api/caching#Part).
 
 - [x] `chat/completions`
 
-  Currently, most of the parameters that are applicable to both APIs have been implemented,
-  with the exception of function calls.
+  Currently, most of the parameters that are applicable to both APIs have been implemented.
   <details>
 
   - [x] `messages`
